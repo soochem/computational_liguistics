@@ -1,2 +1,0 @@
-API key	0gfr8NdGyEZmeaakLdU750mSA 
-Consumer Secret (API Secret)	nCoaFSkkthi9oI3OSMoPdGZ9qZajEnPh0bXdAY9cLdb2VV57nY
